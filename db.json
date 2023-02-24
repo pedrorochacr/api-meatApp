@@ -1,9 +1,9 @@
 {
   "strategy": [
     {
-      "market": "OverGols",
-      "oddMin": "1.5",
-      "oddMax": "1.7",
+      "market": "",
+      "oddMin": "",
+      "oddMax": "",
       "id": 1
     }
   ]
